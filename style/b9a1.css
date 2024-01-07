@@ -1,0 +1,30 @@
+.banner img{
+    max-width: 100%;
+    height: auto;
+   padding-left: 224px 224px;
+   text-align: center;
+    
+}
+.banner{
+    position: relative;
+}
+.banner-text{
+    position: absolute;
+    top: 25%;
+    color: white;
+    margin-left: 900px;
+    margin-bottom: 2000px;
+    font-size: larger;
+}
+.font-size{
+    font-size: 180%;
+}
+.off{
+    text-align: center;
+    color: red;
+    font-size: 80px;
+    margin: 50px 0px 620px 620px;
+}
+.midnight{
+
+}
