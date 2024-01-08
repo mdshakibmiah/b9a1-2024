@@ -26,5 +26,28 @@
     margin: 50px 0px 620px 620px;
 }
 .midnight{
+width: 1320px;
+height: 600px;
+position: center;
+padding: 20%;
+margin-top: 10px;
+}
+#text{
+    font-size: 20px;
+    
+}
+#greetings{
+    font-size: 60px;
+}
 
+.button{
+    font-size: 30px;
+    border: 0px;
+}
+.banner1{
+    text-align: center;
+    border: 326px 214px ;
+}
+.p{
+    text-align: center;
 }
