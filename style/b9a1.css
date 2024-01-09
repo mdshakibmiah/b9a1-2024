@@ -1,53 +1,171 @@
-.banner img{
-    max-width: 100%;
-    height: auto;
-   padding-left: 224px 224px;
-   text-align: center;
+header{background-image: url('../resources/Banner\ Image.png');
+    width: 1320px;
+    height: 600px;
+    flex-shrink: 0;
+    lighting-color:blueviolet ;
+    border-radius: 16px;
+    background-position: center;
+  
+    }
     
-}
-.banner{
-    position: relative;
-}
-.banner-text{
-    position: absolute;
-    top: 25%;
-    color: white;
-    margin-left: 900px;
-    margin-bottom: 2000px;
-    font-size: larger;
-}
-.font-size{
-    font-size: 180%;
-}
-.off{
+    .new-year-photo{
+     display: block;
+     margin: auto;
+     padding-left: 1580px;
+    }
+    
+    header h3{
+        padding-top: 150px;
+        padding-bottom: 0px;
+     color: #fff;
     text-align: center;
-    color: red;
-    font-size: 80px;
-    margin: 50px 0px 620px 620px;
-}
-.midnight{
-width: 1320px;
-height: 600px;
-position: center;
-padding: 20%;
-margin-top: 10px;
-}
-#text{
-    font-size: 20px;
-    
-}
-#greetings{
-    font-size: 60px;
-}
-
-.button{
     font-size: 30px;
-    border: 0px;
-}
-.banner1{
-    text-align: center;
-    border: 326px 214px ;
-}
-.p{
-    text-align: center;
-}
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
+    header h1{
+        padding-top: 0px;
+        color: #fff;
+        text-align: center;
+        font-size: 70px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 95px;
+        
+        }
+    .off{ color: #F00;
+        text-align: center;
+        font-family: Inter;
+        font-size: 88px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    padding-bottom: 0px;}
+    
+    .holiday{padding-top: 0px;color: #F00;
+        text-align: center;
+        font-family: Inter;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 0;}
+    .all{ color: #070211;
+            text-align: center;
+            font-family: Inter;
+            font-size: 41px;
+            font-style: normal;
+            font-weight: 690;
+            line-height: 0;}
+    .nyp{
+        width: 800px;
+    height: 500px;
+    flex-shrink: 0px;
+    padding-left: 200px;}
+    .welcome{padding-top: 140px;
+        padding-left: 50px;
+        color: #FFF;
+        font-family: Merriweather;
+        font-size: 62px;
+        font-style: normal;
+        font-weight: 800;
+        line-height: 70px;
+        letter-spacing: 7.04px;}
+    .doller{padding-left: 50px; color: rgba(255, 255, 255, 0.80);
+        font-family: Inter;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 20px;}
+    .jn{justify-items: auto;
+        color: #fcfaf1;
+        text-align: center;
+        font-family: Inter;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+    background-color: none;
+    background: none;
+    border: none;}
+    .victor{background-image: url('../resources/Vectorrr.png');
+        width: 1320px;
+        height: 600px;
+        flex-shrink: 0;
+        lighting-color:blueviolet ;
+        border-radius: 16px;
+        fill: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%);
+    }
+    
+    .park{padding-top: 100px;
+        text-align: center;
+        font-family: Inter;
+        font-size: 22px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 45px;
+        text-transform: capitalize;
+        background-color:lightgoldenrodyellow;
+        width: 1320px;
+        height: 350px;
+        flex-shrink: 0;}
+        .join {color: white;
+            text-align: center;
+            font-family: Inter;
+            font-size: 13px;
+            font-style: normal;
+            font-weight: 700;
+            line-height: normal;
+            display: inline-flex;
+            padding: 16px 32px;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            border-radius: 8px;
+            background: #F00;}
+           .imagerow{
+           background-position: center;
+           }
+           .emoji{
+          padding-left: 1900px;
+           }
+           .subscribe{
+            text-decoration: #070211;
+            font-size: 80px;
+            text-align: center;
+           }
+           .paragraph{
+            text-decoration: #070211;
+            font-size: 40px;
+            text-align: center;
+            margin-bottom: 0px;
+           }
+          .gmail{
+            text-align: center;
+            
+          }
+          .button{
+            color: #FFF;
+            text-align: center;
+            font-family: Inter;
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            text-transform: capitalize;
+            border-radius: 0px 50px 50px 0px;
+            background: #F00;
+
+          }
+          .footer{
+            width: 1600px;
+height: 609px;
+flex-shrink: 0;
+background-color: rgb(228, 14, 14);
+background-position: center;
+          }
+          .fonter{
+            color: white;
+            padding-top: 30px;
+            font-size: 70px;
+          }
